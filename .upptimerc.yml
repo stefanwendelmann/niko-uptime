@@ -11,12 +11,30 @@ sites:
     url: https://niko.neuenhauser.de/api/user/q/health
   - name: Notification API
     url: https://niko.neuenhauser.de/api/notification/q/health
+  - name: Mitarbeiter API
+    url: https://niko.neuenhauser.de/api/ma/q/health
+  - name: AZ API
+    url: https://niko.neuenhauser.de/api/az/q/health
+  - name: Geschaeftspartner Portal API
+    url: https://niko.neuenhauser.de/api/gpp/q/health
+  - name: Marktplatz API
+    url: https://niko.neuenhauser.de/api/mp/q/health
+  - name: Dealer Portal News API
+    url: https://niko.neuenhauser.de/api/news/ut/q/health
+  - name: Chat API
+    url: https://niko.neuenhauser.de/api/chat/q/health
+  - name: Q&A API
+    url: https://niko.neuenhauser.de/api/qa/q/health
+  - name: Teamkalender API
+    url: https://niko.neuenhauser.de/api/tk/q/health
+  - name: Controlling Portal API
+    url: https://niko.neuenhauser.de/api/cp/q/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: stefan.hoeltker.de
-  baseUrl: /niko-upptime
+  cname: stefan.hoeltker.de/niko-upptime
+  #baseUrl: 
   logoUrl: https://niko.neuenhauser.de/assets/layout/images/NIKO_APP.svg
   name: NIKO
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
