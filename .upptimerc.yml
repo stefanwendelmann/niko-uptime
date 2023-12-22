@@ -33,10 +33,10 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: stefan.hoeltker.de/niko-upptime
+  cname: stefan.hoeltker.de
   #baseUrl: 
   logoUrl: https://niko.neuenhauser.de/assets/layout/images/NIKO_APP.svg
-  name: NIKO
+  name: NIKO Uptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
@@ -44,6 +44,10 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Jira Project
+      href: https://nextn.atlassian.net/jira/software/projects/NMA/boards/59
+    - title: Sources
+      href: https://bitbucket.org/nextn/workspace/projects/NIKO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
