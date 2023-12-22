@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 708,
-    "timeDay": 708,
-    "timeWeek": 708,
-    "timeMonth": 708,
-    "timeYear": 708,
+    "time": 677,
+    "timeDay": 677,
+    "timeWeek": 677,
+    "timeMonth": 677,
+    "timeYear": 677,
     "dailyMinutesDown": {}
   },
   {
@@ -167,19 +167,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/niko.neuenhauser.de.ico",
     "slug": "chat-api",
     "status": "up",
-    "uptime": "51.48%",
-    "uptimeDay": "51.48%",
-    "uptimeWeek": "51.48%",
-    "uptimeMonth": "51.48%",
-    "uptimeYear": "51.48%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 127,
     "timeDay": 127,
     "timeWeek": 127,
     "timeMonth": 127,
     "timeYear": 127,
-    "dailyMinutesDown": {
-      "2023-12-22": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Q&A API",
