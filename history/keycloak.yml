@@ -1,7 +1,7 @@
 url: https://niko.neuenhauser.de/auth/realms/niko-prod
-status: down
-code: 503
-responseTime: 104
-lastUpdated: 2024-11-21T18:45:37.345Z
+status: up
+code: 200
+responseTime: 171
+lastUpdated: 2024-11-21T18:57:48.982Z
 startTime: 2023-12-22T09:52:53.657Z
 generator: Upptime <https://github.com/upptime/upptime>
